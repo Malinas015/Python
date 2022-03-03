@@ -1,0 +1,5 @@
+print("greetingzzz, welcome to our Jamaican Coffee Shop")
+
+# Bovenstaand wordt getoond als progamma wordt opgestart
+
+input("Can I an I ask the name your mama gave ya?")
